@@ -8,7 +8,7 @@ cards = {
     'fool': {
         'id' : 1,
         'meaning': 'Embrace new beginnings and spontaneity with the Fool. This card represents untapped potential and the joy of exploration.',
-        'image': 'https://commons.wikimedia.org/wiki/File:RWS_Tarot_00_Fool.jpg',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/RWS_Tarot_00_Fool.jpg/309px-RWS_Tarot_00_Fool.jpg',
     },
     'magician': {
         'id' : 2,
@@ -18,17 +18,17 @@ cards = {
     'high_priestess': {
         'id' : 3,
         'meaning': 'Trust your intuition and explore hidden knowledge with the High Priestess. Embrace the mysteries within and connect with your subconscious.',
-        'image': 'https://commons.wikimedia.org/wiki/File:RWS_Tarot_02_High_Priestess.jpg',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/RWS_Tarot_02_High_Priestess.jpg/311px-RWS_Tarot_02_High_Priestess.jpg',
     },
     'emperor': {
         'id' : 4,
         'meaning': 'Establish stability and leadership with the Emperor. This card signifies authority and the wisdom to build a strong foundation for success.',
-        'image': 'https://commons.wikimedia.org/wiki/File:RWS_Tarot_04_Emperor.jpg',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/c/c3/RWS_Tarot_04_Emperor.jpg',
     },
     'lovers': {
         'id' : 5,
         'meaning': 'Experience deep connections and make heart-centered choices with the Lovers. Embrace harmony, love, and partnerships.',
-        'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/RWS-06-thelovers.jpg/144px-RWS-06-thelovers.jpg',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/3/3a/TheLovers.jpg',
     },
     'chariot': {
         'id' : 6,
@@ -188,7 +188,7 @@ cards = {
     'three_of_pentacles': {
         'id' : 37,
         'meaning': 'Collaborate and showcase your skills with the Three of Pentacles. This card signifies teamwork, craftsmanship, and the recognition of your expertise.',
-        'image': 'https://commons.wikimedia.org/wiki/File:Pents03.jpg',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/4/42/Pents03.jpg',
     },
     'four_of_pentacles': {
         'id' : 38,
@@ -218,32 +218,32 @@ cards = {
     'nine_of_pentacles': {
         'id' : 43,
         'meaning': 'Enjoy the fruits of your labor and savor financial independence with the Nine of Pentacles. This card represents self-sufficiency, luxury, and the rewards of hard work.',
-        'image': 'url_to_nine_of_pentacles_image',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/f/f0/Pents09.jpg',
     },
     'ten_of_pentacles': {
         'id' : 44,
         'meaning': 'Celebrate prosperity, wealth, and family legacy with the Ten of Pentacles. This card signifies financial security, generational wealth, and the fulfillment of long-term goals.',
-        'image': 'url_to_ten_of_pentacles_image',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/4/42/Pents10.jpg',
     },
     'page_of_pentacles': {
         'id' : 45,
         'meaning': 'Embark on a journey of practical learning and financial exploration with the Page of Pentacles. This card signifies curiosity, studiousness, and the pursuit of tangible goals.',
-        'image': 'url_to_page_of_pentacles_image',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/e/ec/Pents11.jpg',
     },
     'knight_of_pentacles': {
         'id' : 46,
         'meaning': 'Approach tasks with dedication, reliability, and attention to detail with the Knight of Pentacles. This card represents a steady and methodical approach to achieving goals.',
-        'image': 'url_to_knight_of_pentacles_image',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Pents12.jpg',
     },
     'queen_of_pentacles': {
         'id' : 47,
         'meaning': 'Embody practicality, nurturing, and financial wisdom with the Queen of Pentacles. This card symbolizes a grounded and nurturing approach to material and familial matters.',
-        'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Queen_of_Cups%2C_Waite-Smith_Tarot_Deck%2C_Yale_University.jpg/142px-Queen_of_Cups%2C_Waite-Smith_Tarot_Deck%2C_Yale_University.jpg',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/8/88/Pents13.jpg',
     },
     'king_of_pentacles': {
         'id' : 48,
         'meaning': 'Lead with stability, abundance, and financial mastery with the King of Pentacles. This card represents success, responsibility, and the ability to manifest prosperity.',
-        'image': 'url_to_king_of_pentacles_image',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/1/1c/Pents14.jpg',
     },
     'ace_of_swords': {
         'id' : 49,
@@ -318,37 +318,37 @@ cards = {
     'ace_of_cups': {
         'id' : 63,
         'meaning': 'Embrace emotional and spiritual new beginnings with the Ace of Cups. This card signifies love, intuition, and the potential for deep emotional fulfillment.',
-        'image': 'url_to_ace_of_cups_image',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/3/36/Cups01.jpg',
     },
     'two_of_cups': {
         'id' : 64,
         'meaning': 'Celebrate partnerships and emotional connections with the Two of Cups. This card represents harmony, mutual respect, and the power of shared emotions.',
-        'image': 'url_to_two_of_cups_image',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/f/f8/Cups02.jpg',
     },
     'three_of_cups': {
         'id' : 65,
         'meaning': 'Revel in joyful gatherings, friendship, and celebrations with the Three of Cups. This card signifies shared happiness, connection, and the importance of expressing gratitude.',
-        'image': 'https://commons.wikimedia.org/wiki/File:Cups03.jpg',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/7/7a/Cups03.jpg',
     },
     'four_of_cups': {
         'id' : 66,
         'meaning': 'Reflect on emotional fulfillment and seek inner contentment with the Four of Cups. This card represents contemplation, introspection, and the potential for new perspectives.',
-        'image': 'https://commons.wikimedia.org/wiki/File:Cups04.jpg',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/3/35/Cups04.jpg',
     },
     'five_of_cups': {
         'id' : 67,
         'meaning': 'Navigate through emotional loss and find healing with the Five of Cups. This card signifies grief, acceptance, and the importance of focusing on what can be salvaged.',
-        'image': 'https://commons.wikimedia.org/wiki/File:Cups05.jpg',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/d/d7/Cups05.jpg',
     },
     'six_of_cups': {
         'id' : 68,
         'meaning': 'Embrace nostalgia, innocence, and joyful memories with the Six of Cups. This card signifies the return of past influences, childhood joy, and the power of sentimental connections.',
-        'image': 'https://commons.wikimedia.org/wiki/File:Cups06.jpg',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/1/17/Cups06.jpg',
     },
     'seven_of_cups': {
         'id' : 69,
         'meaning': 'Confront choices, dreams, and illusions with the Seven of Cups. This card signifies imagination, fantasy, and the importance of discerning reality from illusion.',
-        'image': 'https://commons.wikimedia.org/wiki/File:Cups07.jpg',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/a/ae/Cups07.jpg',
     },
     'eight_of_cups': {
         'id' : 70,
@@ -373,12 +373,12 @@ cards = {
     'knight_of_cups': {
          'id' : 74,
         'meaning': 'Pursue your dreams with romanticism, creativity, and emotional depth with the Knight of Cups. This card represents a quest for inspiration, artistic expression, and the pursuit of love.',
-        'image': 'https://commons.wikimedia.org/wiki/File:Cups12.jpg',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Cups12.jpg',
     },
     'queen_of_cups': {
          'id' : 75,
         'meaning': 'Embody compassion, intuition, and emotional understanding with the Queen of Cups. This card symbolizes emotional maturity, empathy, and the nurturing of others.',
-        'image': 'https://commons.wikimedia.org/wiki/File:Cups13.jpg',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/6/62/Cups13.jpg',
     },
     'king_of_cups': {
          'id' : 76,
@@ -388,7 +388,7 @@ cards = {
      'empress': {
         'id' : 77,
         'meaning': 'Nurture creativity, fertility, and abundance with the Empress. This card symbolizes the power of nurturing, growth, and the manifestation of ideas into reality.',
-        'image': 'https://commons.wikimedia.org/wiki/File:RWS_Tarot_03_Empress.jpg',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/d/d2/RWS_Tarot_03_Empress.jpg',
     },
     'hierophant': {
         'id' : 78,
