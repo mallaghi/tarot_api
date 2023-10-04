@@ -360,6 +360,13 @@ api.add_resource(TarotCards, "/", "/tarotcards", "/tarotcards/<string:id>")
 #         db.session.add(card)
 #     db.session.commit()
 
+# with app.app_context():
+#     instances_to_delete = CardModel.query.filter(CardModel.id.between(79, 312)).all()
+
+#     for instance in instances_to_delete:
+#         db.session.delete(instance)
+
+#     db.session.commit()
 
 if __name__ == "__main__":
     app.run(port=8000, debug=True)
